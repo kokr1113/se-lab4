@@ -1,0 +1,6 @@
+# Creating spaceship with 2 Secondary torpedo
+GT4500,2,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE 
+TORPEDO,SINGLE
+TORPEDO,SINGLE 
