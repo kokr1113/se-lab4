@@ -1,0 +1,6 @@
+#alternáló tüzelés hibás primary-vel, hsiezn van benne torpedó csak hibás
+GT4500,2,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE 
+TORPEDO,SINGLE
+TORPEDO,SINGLE 
