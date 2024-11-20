@@ -1,3 +1,4 @@
+#korlátozott torpedószám, ALL művelet először majd üres csöveken Single
 GT4500,1,0,1,0
 TORPEDO,ALL
 TORPEDO,SINGLE

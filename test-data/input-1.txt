@@ -1,3 +1,6 @@
+#csak a második tartalmaz rakétát
+#alapon nem az elsővel próbál lőni ezért sikeres
+#  a másodikra vált és sikeres
 GT4500,0,0,10,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE
